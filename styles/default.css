@@ -9,3 +9,8 @@ body {
     max-width: 1000px;
     margin: auto;
 }
+
+.form>* {
+    padding: 0.5rem;
+    margin: 1rem;
+}
